@@ -1,0 +1,30 @@
+testALThard: 
+Results:Average bitrate:783333.3333333334buffer time:1.001switches:5
+Score:490441.3431839506
+
+
+testHD: 
+Results:Average bitrate:3666666.6666666665buffer time:2.015switches:3
+Score:2574826.54098432
+
+
+testPQ: 
+Results:Average bitrate:50000.0buffer time:246.38100000000003switches:0
+Score:0.16236394651992062
+
+
+badtest: 
+Results:Average bitrate:650000.0buffer time:1.012switches:8
+Score:316717.64825479256
+
+
+testALTsoft: 
+Results:Average bitrate:1916666.6666666667buffer time:15.09switches:6
+Score:535948.1274171852
+
+
+testHDmanPQtrace: 
+Results:Average bitrate:65000.0buffer time:316.6909999999999switches:1
+Score:0.0052719036752869155
+
+
